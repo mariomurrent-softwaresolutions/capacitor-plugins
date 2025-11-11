@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EdgeToEdge Test App</string>
+    <string name="title_activity_main">EdgeToEdge Test App</string>
+    <string name="package_name">io.capawesome.test.edgetoedge</string>
+    <string name="custom_url_scheme">io.capawesome.test.edgetoedge</string>
+</resources>
